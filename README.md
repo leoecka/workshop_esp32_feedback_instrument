@@ -96,4 +96,12 @@ This repository uses dual licensing to properly cover both hardware designs and 
 * **Software & Firmware (`.ino` sketches):** Licensed under the **Apache License 2.0** — see [`LICENSE`](LICENSE). You may freely use, modify, and distribute the code, provided you retain copyright notices and clearly state any modifications made to the files.
 * **Hardware (PCB schematics, layout, Gerber files):** Licensed under the **CERN Open Hardware Licence Version 2 – Weakly Reciprocal (`CERN-OHL-W-2.0`)** — see [`LICENSE-HARDWARE`](LICENSE-HARDWARE). You are free to manufacture, modify, and distribute the hardware, provided you give attribution, document any modifications, and share modified hardware design files under the same license.
 
+---
+
+## 5. Notes
+
+* Both the firmware code and the PCB design were developed with AI assistance.
+
 Copyright © 2026 Leon Eckard
+
+*Funded by Musikfonds e.V. by means of the Federal Government Commissioner for Culture and the Media.*
