@@ -50,7 +50,7 @@ All sketches are written for the **Arduino IDE** and require **Arduino-ESP32 Cor
    ```text
    [https://espressif.github.io/arduino-esp32/package_esp32_index.json](https://espressif.github.io/arduino-esp32/package_esp32_index.json)
    ```
-4. Alternatively,open the **Boards Manager** on the left sidebar, search for **`esp32`**, and install **`esp32` by Espressif Systems** (version **3.x** or newer).
+4. Alternatively, open the **Boards Manager** on the left sidebar, search for **`esp32`**, and install **`esp32` by Espressif Systems** (version **3.x** or newer).
 
 ### Step 2: Select Board
 Go to **Tools → Board → esp32** and select **`ESP32 Dev Module`**. *(Default settings for Upload Speed, Flash Frequency, etc. can be left unchanged.)*
